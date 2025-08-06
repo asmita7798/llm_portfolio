@@ -1,4 +1,4 @@
-# llm_portfolio
+# Fine-tuning LLMs for Python Code Synthesis
 The primary objective of this project is to show the ability to fine-tune to enhance the model performance on a specific task. In this task, a Large language model has been fine-tuned for code generation. The language of the generated code being Python. The model has been trained on data chosen from a benchmark dataset and its performance has been evaluated on test data using the selected evaluation metric. In the next step, an existing large language model has been used in the data collection process to generate synthetic data. This data has then been used to fine-tune the chosen base model to enhance its performance. In the final step of the project, the training data and synthetic data have been combined and used to further fine-tune the base model to increase its performance. A visualization has been provided to compare the model performances using the selected evaluation metric.
 The various fine-tuned models have been assigned the following names:
 • Model A: The chosen base model for this project. (not fine-tuned)
